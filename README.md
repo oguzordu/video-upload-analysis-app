@@ -90,7 +90,7 @@ kopyalayabilirsin):
 VIDEO_INDEXER_SUBSCRIPTION_KEY=azure_video_indexer_primary_key
 VIDEO_INDEXER_ACCOUNT_ID=azure_video_indexer_account_id
 VIDEO_INDEXER_LOCATION=trial
-MONGODB_CONNECTION_STRING=mongodb+srv://kullanici:parola@cluster.mongodb.net/
+MONGODB_CONNECTION_STRING=mongodb+srv://KULLANICI:PAROLA@CLUSTER_ADRESI/
 MONGODB_DB_NAME=video_app_db
 ```
 
@@ -216,7 +216,7 @@ Then create a `.env` file in the project root (you can copy `.env.example`):
 VIDEO_INDEXER_SUBSCRIPTION_KEY=your_azure_video_indexer_primary_key
 VIDEO_INDEXER_ACCOUNT_ID=your_azure_video_indexer_account_id
 VIDEO_INDEXER_LOCATION=trial
-MONGODB_CONNECTION_STRING=mongodb+srv://user:password@cluster.mongodb.net/
+MONGODB_CONNECTION_STRING=mongodb+srv://USER:PASSWORD@CLUSTER_HOST/
 MONGODB_DB_NAME=video_app_db
 ```
 
